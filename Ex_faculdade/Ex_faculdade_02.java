@@ -3,6 +3,8 @@ package Ex_faculdade;
 import java.util.Locale;
 import java.util.Scanner;
 
+// Exercício 02: lê dados do usuário e os exibe
+
 public class Ex_faculdade_02{
 
     public static void main(String[] args) {
